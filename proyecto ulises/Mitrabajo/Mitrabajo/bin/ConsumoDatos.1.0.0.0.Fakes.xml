@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsumoDatos.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Global.Fakes.ShimConsumoDatos">
+            <summary>Tipo de correcciones de compatibilidad (shim) de ConsumoDatos</summary>
+        </member>
+        <member name="M:Global.Fakes.ShimConsumoDatos.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Global.Fakes.ShimConsumoDatos.#ctor(ConsumoDatos)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:Global.Fakes.ShimConsumoDatos.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Global.Fakes.ShimConsumoDatos.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.CerrarDB">
+            <summary>Establecer el shim de ConsumoDatos.CerrarDB()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.ComandString">
+            <summary>Establecer el shim de ConsumoDatos.Comand(String query)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.ConectarDB">
+            <summary>Establecer el shim de ConsumoDatos.ConectarDB()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.Constructor">
+            <summary>Establecer el shim de ConsumoDatos.ConsumoDatos()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.EjecutarSPString">
+            <summary>Establecer el shim de ConsumoDatos.EjecutarSP(String sp)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.SeleccionarImagenString">
+            <summary>Establecer el shim de ConsumoDatos.SeleccionarImagen(String query)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.SelectValorString">
+            <summary>Establecer el shim de ConsumoDatos.SelectValor(String query)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.llenarComandString">
+            <summary>Establecer el shim de ConsumoDatos.llenarComand(String query)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.llenartableString">
+            <summary>Establecer el shim de ConsumoDatos.llenartable(String query)</summary>
+        </member>
+        <member name="T:Global.Fakes.ShimConsumoDatos.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.AllInstances.CerrarDB">
+            <summary>Establecer el shim de ConsumoDatos.CerrarDB()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.AllInstances.ComandString">
+            <summary>Establecer el shim de ConsumoDatos.Comand(String query)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.AllInstances.ConectarDB">
+            <summary>Establecer el shim de ConsumoDatos.ConectarDB()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.AllInstances.EjecutarSPString">
+            <summary>Establecer el shim de ConsumoDatos.EjecutarSP(String sp)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.AllInstances.SeleccionarImagenString">
+            <summary>Establecer el shim de ConsumoDatos.SeleccionarImagen(String query)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.AllInstances.SelectValorString">
+            <summary>Establecer el shim de ConsumoDatos.SelectValor(String query)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.AllInstances.llenarComandString">
+            <summary>Establecer el shim de ConsumoDatos.llenarComand(String query)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimConsumoDatos.AllInstances.llenartableString">
+            <summary>Establecer el shim de ConsumoDatos.llenartable(String query)</summary>
+        </member>
+        <member name="T:Global.Fakes.StubConsumoDatos">
+            <summary>Tipo stub de ConsumoDatos</summary>
+        </member>
+        <member name="M:Global.Fakes.StubConsumoDatos.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Global.Fakes.StubConsumoDatos.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubConsumoDatos</summary>
+        </member>
+        <member name="P:Global.Fakes.StubConsumoDatos.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:Global.Fakes.StubConsumoDatos.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Global.Fakes.StubConsumoDatos.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+    </members>
+</doc>

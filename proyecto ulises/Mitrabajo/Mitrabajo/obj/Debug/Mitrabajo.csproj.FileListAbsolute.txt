@@ -1,0 +1,62 @@
+C:\Users\Alder\Documents\visual studio 2012\Projects\Mitrabajo\Mitrabajo\bin\Mitrabajo.dll
+C:\Users\Alder\Documents\visual studio 2012\Projects\Mitrabajo\Mitrabajo\bin\Mitrabajo.pdb
+C:\Users\Alder\Documents\visual studio 2012\Projects\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.csprojResolveAssemblyReference.cache
+C:\Users\Alder\Documents\visual studio 2012\Projects\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.dll
+C:\Users\Alder\Documents\visual studio 2012\Projects\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.pdb
+C:\Users\Alder\Documents\visual studio 2012\Projects\Mitrabajo\Mitrabajo\bin\AForge.Imaging.dll
+C:\Users\Alder\Documents\visual studio 2012\Projects\Mitrabajo\Mitrabajo\bin\ConsumoDatos.dll
+C:\Users\Alder\Documents\visual studio 2012\Projects\Mitrabajo\Mitrabajo\bin\AForge.dll
+C:\Users\Alder\Documents\visual studio 2012\Projects\Mitrabajo\Mitrabajo\bin\AForge.Math.dll
+C:\Users\Alder\Documents\visual studio 2012\Projects\Mitrabajo\Mitrabajo\bin\AForge.Imaging.xml
+C:\Users\Alder\Documents\visual studio 2012\Projects\Mitrabajo\Mitrabajo\bin\ConsumoDatos.pdb
+C:\Users\Alder\Documents\visual studio 2012\Projects\Mitrabajo\Mitrabajo\bin\AForge.xml
+C:\Users\Alder\Documents\visual studio 2012\Projects\Mitrabajo\Mitrabajo\bin\AForge.Math.xml
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\Mitrabajo.dll.config
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\Mitrabajo.dll
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\Mitrabajo.pdb
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.dll
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.Math.dll
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.Imaging.xml
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\ConsumoDatos.pdb
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.xml
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.Math.xml
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.dll
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.pdb
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\Mitrabajo.dll
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\Mitrabajo.pdb
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.dll
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.Math.dll
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.Imaging.xml
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\ConsumoDatos.pdb
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.xml
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.Math.xml
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.csprojResolveAssemblyReference.cache
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.dll
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.pdb
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\ConsumoDatos.1.0.0.0.Fakes.dll
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\ConsumoDatos.1.0.0.0.Fakes.xml
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\ConsumoDatos.dll
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\bin\Mitrabajo.dll.config
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\bin\Mitrabajo.dll
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\bin\Mitrabajo.pdb
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\bin\ConsumoDatos.1.0.0.0.Fakes.dll
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.dll
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.Math.dll
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.Imaging.xml
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\bin\ConsumoDatos.pdb
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\bin\ConsumoDatos.1.0.0.0.Fakes.xml
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.xml
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\bin\AForge.Math.xml
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.csprojResolveAssemblyReference.cache
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.csproj.CoreCompileInputs.cache
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.dll
+C:\Users\ottino\Downloads\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.pdb
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\ConsumoDatos.1.0.0.0.Fakes.dll
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\bin\ConsumoDatos.1.0.0.0.Fakes.xml
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Interop.WIA.dll
+C:\Users\Daniel\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.csproj.ResolveComReference.cache
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Interop.WIA.dll
+C:\Users\Alder\Desktop\proyecto ulises\Mitrabajo\Mitrabajo\obj\Debug\Mitrabajo.csproj.ResolveComReference.cache

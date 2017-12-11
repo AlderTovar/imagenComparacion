@@ -1,0 +1,97 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.IO;
+using AForge.Imaging;
+using System.Drawing;
+
+namespace Mitrabajo
+{
+    public partial class Documentos_e_Información : System.Web.UI.Page
+    {
+        
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            string carpetaInfoPersonal = Server.MapPath(@"imagenes").ToString() + @"\InfoPersonal";
+            string carpetaInfoLaboral = Server.MapPath(@"imagenes").ToString() + @"\InfoLabarobal";
+            string carpetaInfoAcademica = Server.MapPath(@"imagenes").ToString() + @"\InfoAcademica";
+            string carpetatemporal = Server.MapPath(@"imagenes").ToString() + @"\temporal";
+            if (!System.IO.Directory.Exists(carpetaInfoPersonal))
+            {
+                System.IO.Directory.CreateDirectory(carpetaInfoPersonal);
+            }
+            if (!System.IO.Directory.Exists(carpetaInfoLaboral))
+            {
+                System.IO.Directory.CreateDirectory(carpetaInfoLaboral);
+            }
+            if (!System.IO.Directory.Exists(carpetaInfoAcademica))
+            {
+                System.IO.Directory.CreateDirectory(carpetaInfoAcademica);
+            }
+            if (!System.IO.Directory.Exists(carpetatemporal))
+            {
+                System.IO.Directory.CreateDirectory(carpetatemporal);
+            }
+            else {
+                System.IO.Directory.Delete(carpetatemporal);
+                System.IO.Directory.CreateDirectory(carpetatemporal);
+            }
+        }
+
+        protected void btnGuardar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void btnSubir_Click(object sender, EventArgs e)
+        {
+            
+            
+        }
+
+        protected void btnEscanear_Click(object sender, EventArgs e)
+        {
+            
+            
+        }
+
+        protected void FileUpload1_DataBinding(object sender, EventArgs e)
+        {
+            
+        }
+
+        protected void btnMostrarImagen_Click(object sender, EventArgs e)
+        {
+            string nombreArchivo = FileUpload1.FileName;
+            FileUpload1.SaveAs(Server.MapPath(@"imagenes").ToString() + @"\temporal" + FileUpload1.FileName);
+            Image1.ImageUrl = @"~\imagenes\temporal\" + FileUpload1.FileName;
+            
+
+
+            ExhaustiveTemplateMatching tm = new ExhaustiveTemplateMatching(0);
+            Bitmap image1 = new Bitmap(Server.MapPath(@"imagenes").ToString() + @"\"+nombreArchivo);
+            Bitmap image2 = new Bitmap(Server.MapPath(@"imagenes").ToString() + @"\templer.jpg");
+
+
+            TemplateMatch[] matchings = tm.ProcessImage(image1, image2, new Rectangle(new Point(0, 0), new Size(250, 250)));
+            if (matchings[0].Similarity > 0.8f)
+            {
+                // Son Similares
+                this.Response.Write("<script language='JavaScript'>window.alert('la imagen se subio correctamente')</script>");
+                ///guardamos el directorio en la base de datos y la imagen en su correspondiente carpeta
+                ///el nombre del archivo sera el nombre de usuario mas el tipo de archivo
+            }
+            else
+            {
+                //No son similares
+                this.Response.Write("<script language='JavaScript'>window.alert('la imagen que subiste no coincide con el tipo de archivo que seleccionaste')</script>");
+                Image1.ImageUrl = "";
+                
+                
+            }
+        }
+    }
+}
